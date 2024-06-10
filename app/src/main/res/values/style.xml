@@ -1,0 +1,7 @@
+<resources>
+    <!-- Base application theme -->
+    <style name="Theme.MyApplication" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here -->
+        <item name="colorPrimary">@color/purple_500</item>
+    </style>
+</resources>
